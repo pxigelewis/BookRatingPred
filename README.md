@@ -1,4 +1,4 @@
-# BookRatingPred
+# Book Rating Predictor
 
 This is a very much unfinished project that I'm currently working on! The goal of this project is to be able to predict what I will rate a given book based on data I've collected from books I've previously read.
 
